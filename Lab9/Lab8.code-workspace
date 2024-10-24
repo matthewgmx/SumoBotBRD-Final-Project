@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Lab8"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance"
+	}
+}
